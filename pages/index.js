@@ -18,8 +18,8 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This is built entirely with Next.js and Clerk. The TikTok handle is
-          stored in the metadata on Clerk's user object.
+          This demo is built entirely with Next.js and Clerk. The TikTok handle
+          is stored in the metadata on Clerk&apos;s user object.
         </p>
       </main>
     </div>
